@@ -17,7 +17,7 @@ body {
 }
 
 .wrapper {
-    background-color: rgb(216, 144, 27);
+    background-image: url(https://www.montanaknifecompany.com/cdn/shop/collections/BIGHORN-COLLECTION-BANNER_1.jpg)
 }
 
 h1 {
@@ -31,9 +31,9 @@ h1 {
 h3,
 h4 {
     font-family: "Fasthand";
-    color: rgb(37, 180, 190);
-    -webkit-text-stroke-color: black;
-    -webkit-text-stroke-width: 0.20px;
+    color: rgb(31, 148, 198);
+    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-width: 0.06px;
 }
 
 h3 {
@@ -58,16 +58,17 @@ h4 {
 }
 
 .menu {
-    background-color: white;
+    background-color: transparent;
     top: 0;
     left: 0;
     text-align: center;
+    height: 100%;
     max-width: 1170px;
     margin: 0 auto;
 
 }
 
-.apptz-img {
+.bcgrnd .apptz-img {
 
     height: 180px;
 }
@@ -121,4 +122,9 @@ h4 {
 
 .drnk {
     margin-top: -240px;
+}
+
+img {
+    max-width: 600px;
+
 }
