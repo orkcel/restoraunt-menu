@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Nova+Square&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fasthand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nova+Square&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@1,800&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    list-style: none;
+
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    background-color: rgb(216, 144, 27);
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 3em;
+    color: rgb(216, 144, 27);
+
+}
+
+h3,
+h4 {
+    font-family: "Fasthand";
+    color: rgb(37, 180, 190);
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.20px;
+}
+
+h3 {
+    font-size: 2em;
+
+}
+
+h4 {
+    font-size: 1.5em;
+}
+
+
+.container ul li {
+    font-family: "Nova square", sans-serif;
+    color: whitesmoke;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+
+
+
+
+}
+
+.menu {
+    background-color: white;
+    top: 0;
+    left: 0;
+    text-align: center;
+    max-width: 1170px;
+    margin: 0 auto;
+
+}
+
+.apptz-img {
+
+    height: 180px;
+}
+
+.apptz {
+    margin-top: -160px;
+    padding-bottom: 20px;
+}
+
+.sd-ds-img {
+
+    height: 400px;
+}
+
+.sd-ds {
+    margin-top: -390px;
+    padding-bottom: 7px;
+}
+
+.mt-img {
+    height: 160px;
+
+}
+
+.mt {
+    margin-top: -150px;
+    padding-bottom: 25px;
+}
+
+.pz-img {
+    height: 160px;
+}
+
+.pz {
+    margin-top: -165px;
+    padding-bottom: 6px;
+}
+
+.dsrt-img {
+    height: 160px;
+}
+
+.dsrt {
+    margin-top: -165px;
+    padding-bottom: 6px;
+}
+
+.drnk-img {
+    height: 235px;
+}
+
+.drnk {
+    margin-top: -240px;
+}
