@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Nova+Square&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fasthand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nova+Square&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@1,800&display=swap");
+
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-transform: uppercase;
+    font-family: "Merriweather Sans", sans-serif;
+}
+h3, h4 {
+    font-family: "Fasthand";
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+li {
+
+    font-family: "Nova square", sans-serif;
+    text-decoration: none;
+} 
+ .menu {
+    top: 0;
+    left: 0;
+    text-align: center;
+    background-color: azure;
+    max-width: 1170px;
+    margin: 0 auto;
+
+ }
