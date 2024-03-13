@@ -32,7 +32,7 @@ h3,
 h4 {
     font-family: "Fasthand";
     color: rgb(31, 148, 198);
-    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-color: rgb(18, 162, 219);
     -webkit-text-stroke-width: 0.06px;
 }
 
@@ -48,7 +48,7 @@ h4 {
 
 .container ul li {
     font-family: "Nova square", sans-serif;
-    color: whitesmoke;
+    color: white;
     -webkit-text-stroke-color: black;
     -webkit-text-stroke-width: 0.5px;
 
